@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre&display=swap');
+body
+{
+  background-image: url(../src/apibg.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.heading
+{
+  font-family: 'Gemunu Libre', sans-serif;
+  text-align: center;
+  font-size: 50px;
+  color: aliceblue;
+  text-shadow: 2px 2px #ff0000;
+}
+.subheading
+{
+  text-align:inherit;
+  font-family: 'Gemunu Libre', sans-serif;
+  color: bisque;
+  text-shadow: 2px 2px #ff0000;
+}
+.para
+{
+  font-size: 20px;
+  color:bisque;
+  font-family: 'Gemunu Libre', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+th,td,tr
+{
+  text-align: center;
+  border: 1px solid black;
+  padding: 20px;
+width: 100px;
+  margin: 20px;
+  font-size: 20px;
+  font-family: 'Akronim', cursive;
+  color: antiquewhite;
+  font-family: 'Gemunu Libre', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+}
+.button2
+{
+  border-radius: 20px;
+  margin: 20px;
+  background:wheat;
+  font-size: 20px;
+  width: 100px;
+height: 40px;
+
+font-family: 'Gemunu Libre', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+}
